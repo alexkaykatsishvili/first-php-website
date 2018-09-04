@@ -2,7 +2,7 @@
 	// Menu items
 	$navItems = array(
 		array(
-			"slug" => "index.php",
+			"slug" => "/",
 			"title" => "Home"
 		),
 		array(
