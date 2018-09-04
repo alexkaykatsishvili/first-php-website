@@ -7,10 +7,10 @@
 <head>
 	<meta charset="UTF-8">
 	<title><?php echo TITLE; ?></title>
-	<link rel="stylesheet" href="../../assets/styles.css">
+	<link rel="stylesheet" href="styles.css">
 	<style>
 		hr {
-    	background: url(../../assets/img/hr.png) center center no-repeat;
+    	background: url(img/hr.png) center center no-repeat;
 		}
 	</style>
 </head>
