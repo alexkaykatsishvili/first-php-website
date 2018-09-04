@@ -17,7 +17,7 @@
 <body id="final-example">
 	<div class="wrapper">
 		<div id="banner">
-			<a href="index.php"><img src="img/banner.png" alt=""></a>
+			<a href="/"><img src="img/banner.png" alt=""></a>
 		</div>
 		<!-- banner -->
 		<div id="nav">
